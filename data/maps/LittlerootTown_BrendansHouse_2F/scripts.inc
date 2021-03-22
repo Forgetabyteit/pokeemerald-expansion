@@ -287,8 +287,8 @@ PlayersHouse_2F_EventScript_GameCube:: @ 81F865F
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped: @ 81F8668
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "The clock looks right\p"
+	.string "Awesome.$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom: @ 81F869A
 	.string "MOM: {PLAYER}, how do you like your\n"
